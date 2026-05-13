@@ -1,0 +1,6 @@
+# Pasta para imagens dos bombeiros.
+Instruções:
+1. Renomeie sua foto de uniforme vermelho para: bombeiro_vermelho.png
+2. Renomeie sua foto de uniforme cinza para: bombeiro_cinza.png
+3. Renomeie sua foto de uniforme preto para: bombeiro_preto.png
+4. Coloque-as nesta pasta.
